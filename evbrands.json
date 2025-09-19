@@ -13,7 +13,7 @@
     "name": "Nissan",
     "country": "Japan",
     "foundedYear": 1933,
-    "logoUrl": "nissan_logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/nissan_logo.jpeg",
     "hqCity": "Yokohama",
     "isLegacy": true
   },
