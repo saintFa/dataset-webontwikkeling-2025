@@ -4,7 +4,7 @@
     "name": "Tesla",
     "country": "United States",
     "foundedYear": 2003,
-    "logoUrl": "tesla_logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/tesla_logo.jpeg",
     "hqCity": "Austin",
     "isLegacy": false
   },
@@ -22,7 +22,7 @@
     "name": "Renault",
     "country": "France",
     "foundedYear": 1899,
-    "logoUrl": "renault_logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/renault_logo.jpeg",
     "hqCity": "Boulogne-Billancourt",
     "isLegacy": true
   },
@@ -31,7 +31,7 @@
     "name": "Volkswagen",
     "country": "Germany",
     "foundedYear": 1937,
-    "logoUrl": "vw_logo",
+    "logoUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/vw_logo.jpeg",
     "hqCity": "Wolfsburg",
     "isLegacy": true
   },
@@ -40,7 +40,7 @@
     "name": "Hyundai",
     "country": "South Korea",
     "foundedYear": 1967,
-    "logoUrl": "hyundai_logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/hyundai_logo.jpeg",
     "hqCity": "Seoul",
     "isLegacy": true
   },
@@ -49,7 +49,7 @@
     "name": "Kia",
     "country": "South Korea",
     "foundedYear": 1944,
-    "logoUrl": "kia_logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/kia_logo.jpeg",
     "hqCity": "Seoul",
     "isLegacy": true
   },
@@ -58,7 +58,7 @@
     "name": "BMW",
     "country": "Germany",
     "foundedYear": 1916,
-    "logoUrl": "bmw_logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/bmw_logo.jpeg",
     "hqCity": "Munich",
     "isLegacy": true
   },
@@ -67,7 +67,7 @@
     "name": "Mercedes-Benz",
     "country": "Germany",
     "foundedYear": 1926,
-    "logoUrl": "mercedes_logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/mercedes_logo.jpeg",
     "hqCity": "Stuttgart",
     "isLegacy": true
   },
@@ -76,7 +76,7 @@
     "name": "Ford",
     "country": "United States",
     "foundedYear": 1903,
-    "logoUrl": "ford_logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/ford_logo.jpeg",
     "hqCity": "Dearborn",
     "isLegacy": true
   },
@@ -85,7 +85,7 @@
     "name": "Audi",
     "country": "Germany",
     "foundedYear": 1909,
-    "logoUrl": "audi_logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/audi_logo.jpeg",
     "hqCity": "Ingolstadt",
     "isLegacy": true
   },
@@ -94,7 +94,7 @@
     "name": "Porsche",
     "country": "Germany",
     "foundedYear": 1931,
-    "logoUrl": "porsche_logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/porsche_logo.jpeg",
     "hqCity": "Stuttgart",
     "isLegacy": true
   },
@@ -103,7 +103,7 @@
     "name": "BYD",
     "country": "China",
     "foundedYear": 1995,
-    "logoUrl": "byd_logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/byd_logo.jpeg",
     "hqCity": "Shenzhen",
     "isLegacy": false
   }
