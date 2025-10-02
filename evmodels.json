@@ -24,7 +24,6 @@
     "drivetrain": "AWD",
     "features": ["Panoramadak", "Sentry Mode", "Voldoende trekgewicht", "Vouwbare achterbank"],
     "brandid": "BR-TSL"
-    }
   },
   {
     "id": "EV-003",
@@ -89,7 +88,7 @@
     "segment": "Crossover",
     "drivetrain": "RWD",
     "features": ["800V snelladen", "AR-head-up display", "Rijke standaard uitrusting"],
-    "brandid": BR-KIA
+    "brandid": "BR-KIA"
   },
   {
     "id": "EV-008",
@@ -141,7 +140,7 @@
     "segment": "SUV",
     "drivetrain": "RWD",
     "features": ["Virtual Cockpit", "Matrix LED", "Head-up display met AR"],
-    "brand": "BR-AUD"
+    "brandid": "BR-AUD"
   },
   {
     "id": "EV-012",
