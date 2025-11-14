@@ -10,7 +10,8 @@
     "segment": "Sedan",
     "drivetrain": "RWD",
     "features": ["OTA-updates", "Autopilot-ondersteuning", "Warmtepomp", "Wireless phone charging"],
-    "brandid": "BR-TSL"
+    "brandid": "BR-TSL",
+    "price": 39990
   },
   {
     "id": "EV-002",
@@ -23,7 +24,8 @@
     "segment": "SUV",
     "drivetrain": "AWD",
     "features": ["Panoramadak", "Sentry Mode", "Voldoende trekgewicht", "Vouwbare achterbank"],
-    "brandid": "BR-TSL"
+    "brandid": "BR-TSL",
+    "price": 45990
   },
   {
     "id": "EV-003",
@@ -36,7 +38,8 @@
     "segment": "Hatchback",
     "drivetrain": "FWD",
     "features": ["ProPILOT Assist", "e-Pedal", "Compact formaat"],
-    "brandid": "BR-NSN"
+    "brandid": "BR-NSN",
+    "price": 29000
   },
   {
     "id": "EV-004",
@@ -49,7 +52,8 @@
     "segment": "Crossover",
     "drivetrain": "FWD",
     "features": ["Google Automotive", "Head-up display", "Compacte footprint"],
-    "brandid": "BR-RNL"
+    "brandid": "BR-RNL",
+    "price": 33990
   },
   {
     "id": "EV-005",
@@ -62,7 +66,8 @@
     "segment": "SUV",
     "drivetrain": "RWD",
     "features": ["Heat pump optioneel", "Intuïtieve bediening", "Ruime achterbank"],
-    "brandid": "BR-VWV"
+    "brandid": "BR-VW V",
+    "price": 41210
   },
   {
     "id": "EV-006",
@@ -75,7 +80,8 @@
     "segment": "Crossover",
     "drivetrain": "AWD",
     "features": ["800V snelladen", "Vehicle-to-Load (V2L)", "Achterbank verschuifbaar"],
-    "brandid": "BR-HYN"
+    "brandid": "BR-HYN",
+    "price": 42995
   },
   {
     "id": "EV-007",
@@ -88,7 +94,8 @@
     "segment": "Crossover",
     "drivetrain": "RWD",
     "features": ["800V snelladen", "AR-head-up display", "Rijke standaard uitrusting"],
-    "brandid": "BR-KIA"
+    "brandid": "BR-KIA",
+    "price": 49990
   },
   {
     "id": "EV-008",
@@ -101,7 +108,8 @@
     "segment": "Sedan",
     "drivetrain": "RWD",
     "features": ["iDrive 8", "Adaptieve dempers", "Snelladen 200 kW"],
-    "brandid": "BR-BMW"
+    "brandid": "BR-BMW",
+    "price": 60600
   },
   {
     "id": "EV-009",
@@ -114,7 +122,8 @@
     "segment": "Sedan",
     "drivetrain": "RWD",
     "features": ["MBUX Hyperscreen optioneel", "Luchtvering", "Uitgebreide assistentie"],
-    "brandid": "BR-MBZ"
+    "brandid": "BR-MBZ",
+    "price": 67187
   },
   {
     "id": "EV-010",
@@ -127,7 +136,8 @@
     "segment": "Crossover",
     "drivetrain": "AWD",
     "features": ["SYNC 4A", "Frunk-opslag", "One-pedal driving"],
-    "brandid": "BR-FRD"
+    "brandid": "BR-FRD",
+    "price": 55800
   },
   {
     "id": "EV-011",
@@ -140,7 +150,8 @@
     "segment": "SUV",
     "drivetrain": "RWD",
     "features": ["Virtual Cockpit", "Matrix LED", "Head-up display met AR"],
-    "brandid": "BR-AUD"
+    "brandid": "BR-AUD",
+    "price": 44990
   },
   {
     "id": "EV-012",
@@ -153,7 +164,8 @@
     "segment": "Sports",
     "drivetrain": "AWD",
     "features": ["800V systeem", "Launch Control", "Porsche Active Suspension Management"],
-    "brandid": "BR-PRC"
+    "brandid": "BR-PRC",
+    "price": 102600
   },
   {
     "id": "EV-013",
@@ -166,6 +178,7 @@
     "segment": "Crossover",
     "drivetrain": "FWD",
     "features": ["Roterend infotainmentscherm", "Warmtepomp", "Rijke standaarduitrusting"],
-    "brandid": "BR-BYD"
+    "brandid": "BR-BYD",
+    "price": 37990
   }
 ]
