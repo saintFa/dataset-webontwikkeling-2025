@@ -34,7 +34,7 @@
     "rangeKm": 576,
     "isAvailable": true,
     "releaseDate": "2015-09-29",
-    "imageUrl": "tesla_model_x.jpeg",
+    "imageUrl": "https://github.com/saintFa/dataset-webontwikkeling-2025/blob/909c5a236149d2f508837c3041c52996b94478fa/images/tesla_model_x.jpeg",
     "segment": "SUV",
     "drivetrain": "AWD",
     "features": ["Falcon Wing-deuren", "Autopilot", "Bioweapon Defense Mode", "Zeven zitplaatsen"],
