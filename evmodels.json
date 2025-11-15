@@ -29,8 +29,22 @@
   },
   {
     "id": "EV-003",
+    "name": "Tesla Model X",
+    "description": "Luxe elektrische SUV met kenmerkende falcon wing-deuren, veel ruimte en indrukwekkende prestaties.",
+    "rangeKm": 576,
+    "isAvailable": true,
+    "releaseDate": "2015-09-29",
+    "imageUrl": "tesla_model_x.jpeg",
+    "segment": "SUV",
+    "drivetrain": "AWD",
+    "features": ["Falcon Wing-deuren", "Autopilot", "Bioweapon Defense Mode", "Zeven zitplaatsen"],
+    "brandid": "BR-TSL",
+    "price": 89990
+  },
+  {
+    "id": "EV-004",
     "name": "Nissan Leaf",
-    "description": "Toegankelijke hatchback die een van de eerste massaproductie-EV’s was; ideaal voor stads- en woon-werkverkeer.",
+    "description": "Toegankelijke hatchback die een van de eerste massaproductie-EV's was; ideaal voor stads- en woon-werkverkeer.",
     "rangeKm": 285,
     "isAvailable": true,
     "releaseDate": "2010-12-03",
@@ -42,7 +56,21 @@
     "price": 29000
   },
   {
-    "id": "EV-004",
+    "id": "EV-005",
+    "name": "Nissan Ariya",
+    "description": "Moderne elektrische crossover met stijlvol design, ruim interieur en geavanceerde rijhulpsystemen.",
+    "rangeKm": 530,
+    "isAvailable": true,
+    "releaseDate": "2022-01-27",
+    "imageUrl": "nissan_ariya.jpeg",
+    "segment": "Crossover",
+    "drivetrain": "AWD",
+    "features": ["ProPILOT 2.0", "e-4ORCE AWD", "Hands-free rijden", "Zero Gravity-stoelen"],
+    "brandid": "BR-NSN",
+    "price": 47490
+  },
+  {
+    "id": "EV-006",
     "name": "Renault Mégane E-Tech Electric",
     "description": "Strakke cross-over hatch met focus op efficiëntie, infotainment op basis van Google en lichtgewicht platform.",
     "rangeKm": 450,
@@ -56,7 +84,21 @@
     "price": 33990
   },
   {
-    "id": "EV-005",
+    "id": "EV-007",
+    "name": "Renault Zoe",
+    "description": "Compacte en betaalbare stadsauto, perfect voor dagelijks woon-werkverkeer met voldoende bereik.",
+    "rangeKm": 395,
+    "isAvailable": true,
+    "releaseDate": "2012-12-01",
+    "imageUrl": "renault_zoe.jpeg",
+    "segment": "Hatchback",
+    "drivetrain": "FWD",
+    "features": ["Compact ontwerp", "Snelladen 50kW", "Lage onderhoudskosten", "City-modus"],
+    "brandid": "BR-RNL",
+    "price": 32990
+  },
+  {
+    "id": "EV-008",
     "name": "Volkswagen ID.4",
     "description": "Ruime elektrische SUV met comfortabele rit en degelijk laadvermogen, ontworpen voor gezinnen.",
     "rangeKm": 520,
@@ -70,7 +112,21 @@
     "price": 41210
   },
   {
-    "id": "EV-006",
+    "id": "EV-009",
+    "name": "Volkswagen ID.3",
+    "description": "Compacte elektrische hatchback met modern design en focus op betaalbaarheid en bereik.",
+    "rangeKm": 426,
+    "isAvailable": true,
+    "releaseDate": "2020-09-17",
+    "imageUrl": "vw_id_3.jpeg",
+    "segment": "Hatchback",
+    "drivetrain": "RWD",
+    "features": ["Augmented Reality HUD", "ID.Light", "App Connect", "Draadloos laden telefoon"],
+    "brandid": "BR-VWV",
+    "price": 36950
+  },
+  {
+    "id": "EV-010",
     "name": "Hyundai IONIQ 5",
     "description": "Retro-futuristische cross-over met 800V-architectuur voor zeer snel laden en een ruim interieur.",
     "rangeKm": 507,
@@ -84,7 +140,21 @@
     "price": 42995
   },
   {
-    "id": "EV-007",
+    "id": "EV-011",
+    "name": "Hyundai IONIQ 6",
+    "description": "Aerodynamische elektrische sedan met uitstekende efficiëntie en futuristisch interieur.",
+    "rangeKm": 614,
+    "isAvailable": true,
+    "releaseDate": "2022-07-14",
+    "imageUrl": "hyundai_ioniq_6.jpeg",
+    "segment": "Sedan",
+    "drivetrain": "RWD",
+    "features": ["800V snelladen", "Streamliner design", "Digital Side Mirrors optioneel", "Ambient verlichting"],
+    "brandid": "BR-HYN",
+    "price": 46995
+  },
+  {
+    "id": "EV-012",
     "name": "Kia EV6",
     "description": "Sportieve cross-over op E-GMP platform met snelle laadtijden en dynamische rijeigenschappen.",
     "rangeKm": 528,
@@ -98,7 +168,21 @@
     "price": 49990
   },
   {
-    "id": "EV-008",
+    "id": "EV-013",
+    "name": "Kia EV9",
+    "description": "Grote elektrische SUV met drie zitrijen, ideaal voor gezinnen die ruimte en comfort zoeken.",
+    "rangeKm": 541,
+    "isAvailable": true,
+    "releaseDate": "2023-03-15",
+    "imageUrl": "kia_ev9.jpeg",
+    "segment": "SUV",
+    "drivetrain": "AWD",
+    "features": ["Zeven zitplaatsen", "800V snelladen", "Highway Driving Pilot", "Swivel-stoelen"],
+    "brandid": "BR-KIA",
+    "price": 74995
+  },
+  {
+    "id": "EV-014",
     "name": "BMW i4",
     "description": "Elektrische gran coupé met premium afwerking en krachtige rijprestaties.",
     "rangeKm": 590,
@@ -112,7 +196,21 @@
     "price": 60600
   },
   {
-    "id": "EV-009",
+    "id": "EV-015",
+    "name": "BMW iX",
+    "description": "Luxe elektrische SUV met innovatieve technologie en duurzame materialen.",
+    "rangeKm": 630,
+    "isAvailable": true,
+    "releaseDate": "2021-11-11",
+    "imageUrl": "bmw_ix.jpeg",
+    "segment": "SUV",
+    "drivetrain": "AWD",
+    "features": ["iDrive 8", "Kristallen bediening", "Shy Tech", "Gerecyclede materialen"],
+    "brandid": "BR-BMW",
+    "price": 84900
+  },
+  {
+    "id": "EV-016",
     "name": "Mercedes-Benz EQE",
     "description": "Volledig elektrische business-sedan met focus op comfort, technologie en bereik.",
     "rangeKm": 620,
@@ -126,7 +224,21 @@
     "price": 67187
   },
   {
-    "id": "EV-010",
+    "id": "EV-017",
+    "name": "Mercedes-Benz EQS",
+    "description": "Vlaggenschip elektrische limousine met uitzonderlijk bereik en luxueus interieur.",
+    "rangeKm": 770,
+    "isAvailable": true,
+    "releaseDate": "2021-04-15",
+    "imageUrl": "mercedes_eqs.jpeg",
+    "segment": "Sedan",
+    "drivetrain": "RWD",
+    "features": ["MBUX Hyperscreen", "Luchtvering", "Rear-axle steering", "Burmester 3D geluid"],
+    "brandid": "BR-MBZ",
+    "price": 109548
+  },
+  {
+    "id": "EV-018",
     "name": "Ford Mustang Mach-E",
     "description": "Elektrische cross-over met sportieve styling en gebruiksvriendelijk infotainment.",
     "rangeKm": 490,
@@ -140,7 +252,21 @@
     "price": 55800
   },
   {
-    "id": "EV-011",
+    "id": "EV-019",
+    "name": "Ford F-150 Lightning",
+    "description": "Volledig elektrische pick-up met indrukwekkend trekgewicht en Pro Power Onboard functionaliteit.",
+    "rangeKm": 515,
+    "isAvailable": true,
+    "releaseDate": "2022-04-26",
+    "imageUrl": "ford_f150_lightning.jpeg",
+    "segment": "Pick-up",
+    "drivetrain": "AWD",
+    "features": ["Pro Power Onboard", "Mega Power Frunk", "BlueCruise", "Intelligent Backup Power"],
+    "brandid": "BR-FRD",
+    "price": 62995
+  },
+  {
+    "id": "EV-020",
     "name": "Audi Q4 e-tron",
     "description": "Compacte premium-SUV met verfijnd interieur en stabiele rijervaring.",
     "rangeKm": 520,
@@ -154,7 +280,21 @@
     "price": 44990
   },
   {
-    "id": "EV-012",
+    "id": "EV-021",
+    "name": "Audi e-tron GT",
+    "description": "High-performance elektrische gran turismo met adembenemend design en sportieve prestaties.",
+    "rangeKm": 488,
+    "isAvailable": true,
+    "releaseDate": "2021-02-09",
+    "imageUrl": "audi_etron_gt.jpeg",
+    "segment": "Sports",
+    "drivetrain": "AWD",
+    "features": ["800V snelladen", "Luchtvering", "Quattro AWD", "Bang & Olufsen audio"],
+    "brandid": "BR-AUD",
+    "price": 106900
+  },
+  {
+    "id": "EV-022",
     "name": "Porsche Taycan",
     "description": "High-performance elektrische sport-sedan met uitzonderlijke handling en laadprestaties.",
     "rangeKm": 510,
@@ -168,7 +308,21 @@
     "price": 102600
   },
   {
-    "id": "EV-013",
+    "id": "EV-023",
+    "name": "Porsche Taycan Cross Turismo",
+    "description": "Veelzijdige elektrische shooting brake met offroad-capaciteiten en sportieve prestaties.",
+    "rangeKm": 490,
+    "isAvailable": true,
+    "releaseDate": "2021-03-04",
+    "imageUrl": "porsche_taycan_cross_turismo.jpeg",
+    "segment": "Sports",
+    "drivetrain": "AWD",
+    "features": ["800V systeem", "Gravel Mode", "Verhoogde bodemspeling", "Panoramadak"],
+    "brandid": "BR-PRC",
+    "price": 109300
+  },
+  {
+    "id": "EV-024",
     "name": "BYD Atto 3",
     "description": "Compacte cross-over met Blade Battery-technologie en aantrekkelijke prijs-kwaliteitverhouding.",
     "rangeKm": 420,
@@ -180,5 +334,19 @@
     "features": ["Roterend infotainmentscherm", "Warmtepomp", "Rijke standaarduitrusting"],
     "brandid": "BR-BYD",
     "price": 37990
+  },
+  {
+    "id": "EV-025",
+    "name": "BYD Seal",
+    "description": "Sportieve elektrische sedan met aerodynamisch design en Cell-to-Body technologie.",
+    "rangeKm": 570,
+    "isAvailable": true,
+    "releaseDate": "2022-05-20",
+    "imageUrl": "byd_seal.jpeg",
+    "segment": "Sedan",
+    "drivetrain": "AWD",
+    "features": ["Cell-to-Body platform", "Blade Battery", "Heat pump", "Torque vectoring"],
+    "brandid": "BR-BYD",
+    "price": 44990
   }
 ]
