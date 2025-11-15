@@ -202,7 +202,7 @@
     "rangeKm": 630,
     "isAvailable": true,
     "releaseDate": "2021-11-11",
-    "imageUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/bmw-ix.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/bmw_ix.jpeg",
     "segment": "SUV",
     "drivetrain": "AWD",
     "features": ["iDrive 8", "Kristallen bediening", "Shy Tech", "Gerecyclede materialen"],
