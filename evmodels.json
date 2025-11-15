@@ -230,7 +230,7 @@
     "rangeKm": 770,
     "isAvailable": true,
     "releaseDate": "2021-04-15",
-    "imageUrl": "raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/mercedes_eqs.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/saintFa/dataset-webontwikkeling-2025/refs/heads/main/images/mercedes_eqs.jpeg",
     "segment": "Sedan",
     "drivetrain": "RWD",
     "features": ["MBUX Hyperscreen", "Luchtvering", "Rear-axle steering", "Burmester 3D geluid"],
